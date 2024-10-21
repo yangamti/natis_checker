@@ -1,0 +1,9 @@
+{
+  "domain": "natis_checker",
+  "name": "Natis Checker",
+  "version": "1.0.0",
+  "documentation": "https://ikhaya-lam.co.za",  # Replace with your documentation link (optional)
+  "requirements": ["aiohttp"],  # Ensures aiohttp is installed
+  "dependencies": [],
+  "codeowners": ["@yanga_mtintweni"]
+}
